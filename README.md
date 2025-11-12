@@ -1,4 +1,5 @@
 # SOC-Simulator with ELK
+<!-- 
 30-Day SOC Analyst Challenge | Gain Practical Experience 
 
 
@@ -26,7 +27,7 @@ and a ticketing system.<br/>
 ![Alt Text](https://github.com/ReynaldoAMartinez/Attack-Simulation-and-Detection-with-Wazuh/blob/main/Project-X%20(3).png))
 
 
-<!-- 
+
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -55,14 +56,14 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
- -->
-<!--
+ 
+
  ```diff
 - text in red
 + text in green
 ! text in orange
- -->
-<!-- 
+
+
 # text in gray
 @@ text in purple (and bold)@@
 ```
