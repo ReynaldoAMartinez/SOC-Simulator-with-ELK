@@ -24,6 +24,15 @@ After I completed the challenge, I gained confidence and solid skills related to
 </div>
 
 ---
+
+
+# A 30-Day Project
+
+
+[01](docs/Day01.md) | [02](docs/Day02.md) | [03](docs/Day03.md) | [04](docs/Day04.md) | [05](docs/Day05.md) | [06](docs/Day06.md) | [07](docs/Day07.md) | [08](docs/Day08.md) | [09](docs/Day09.md) | [10](docs/Day10.md) | [11](docs/Day11.md) | [12](docs/Day12.md) | [13](docs/Day13.md) | [14](docs/Day14.md) | [15](docs/Day15.md) |
+[16](docs/Day16.md) | [17](docs/Day17.md) | [18](docs/Day18.md) | [19](docs/Day19.md) | [20](docs/Day20.md) | [21](docs/Day21.md) | [22](docs/Day22.md) | [23](docs/Day23.md) | [24](docs/Day24.md) | [25](docs/Day25.md) | [26](docs/Day26.md) | [27](docs/Day27.md) | [28](docs/Day28.md) | [29](docs/Day29.md) | [30](docs/Day30.md) |
+
+
 ## 🚀 Achievements through the 30-Day Project
 
 
@@ -50,15 +59,6 @@ After I completed the challenge, I gained confidence and solid skills related to
 ### 🕵️ Threat Hunting & Incident Response
 - 🐍 Performed hands-on investigations of **command-and-control (C2) activity** using the **Mythic C2 framework**, enhancing threat hunting capabilities.
 - 🔄 Demonstrated end-to-end **incident handling skills**—from log ingestion to detection, investigation, and case management—using open-source and enterprise-style tooling.
-
-# A 30-Day Project
-
-
-[01](docs/Day01.md) | [02](docs/Day02.md) | [03](docs/Day03.md) | [04](docs/Day04.md) | [05](docs/Day05.md) | [06](docs/Day06.md) | [07](docs/Day07.md) | [08](docs/Day08.md) | [09](docs/Day09.md) | [10](docs/Day10.md) | [11](docs/Day11.md) | [12](docs/Day12.md) | [13](docs/Day13.md) | [14](docs/Day14.md) | [15](docs/Day15.md) |
-[16](docs/Day16.md) | [17](docs/Day17.md) | [18](docs/Day18.md) | [19](docs/Day19.md) | [20](docs/Day20.md) | [21](docs/Day21.md) | [22](docs/Day22.md) | [23](docs/Day23.md) | [24](docs/Day24.md) | [25](docs/Day25.md) | [26](docs/Day26.md) | [27](docs/Day27.md) | [28](docs/Day28.md) | [29](docs/Day29.md) | [30](docs/Day30.md) |
-
-
-
 
 <!-- 
 30-Day SOC Analyst Challenge | Gain Practical Experience 
