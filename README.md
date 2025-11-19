@@ -23,7 +23,8 @@ After I completed the challenge, I gained confidence and solid skills related to
 <img width="613" height="441" alt="TImeline" src="https://github.com/user-attachments/assets/95e81d10-132f-4c85-8b68-b15ebaba3c20" />
 </div>
 
-## 🚀 30-Day SOC Analyst Challenge Highlights
+---
+## 🚀 Achievements in this project
 
 > **Note:** Only include points you can verify and discuss during interviews.
 
