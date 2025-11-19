@@ -26,7 +26,6 @@ After I completed the challenge, I gained confidence and solid skills related to
 ---
 ## 🚀 Achievements in this project
 
-> **Note:** Only include points you can verify and discuss during interviews.
 
 ---
 
