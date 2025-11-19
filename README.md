@@ -1,6 +1,6 @@
 # SOC-Simulator with ELK
 
-This is an intensive program to help aspiring SOC analysts gain real-world practical experience in just 30 days. It was designed by Steven, founder of MyDFIR (YouTube channel), a very well-known DFIR consultant with long experience working and focusing within the security operations domain.
+This is an intensive program to help aspiring SOC analysts gain real-world practical experience in just 30 days. It was designed by [Steven Maeh](https://www.mydfir.com/), a very well-known DFIR consultant with long experience working and focusing within the security operations domain.
 
 After I completed the challenge, I gained confidence and solid skills related to an SOC environment. I also acquired a methodology for detecting and investigating alerts using a SIEM and a ticketing system.
 
