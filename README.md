@@ -7,6 +7,11 @@ After I completed the challenge, I gained confidence and solid skills related to
 - Tools: Elastic, Logstash, Kibana, Mythic (C2 Server), Sysmon, and an osTicket (ticketing system)
 - Platforms: Windows Server 2022, Ubuntu Server 24.02, Elastic Agent and Fleet Server, and Vultr (a cloud provider)
 
+
+<img width="613" height="441" alt="TImeline" src="https://github.com/user-attachments/assets/95e81d10-132f-4c85-8b68-b15ebaba3c20" />
+
+
+
 # A 30-Day Project
 
 
