@@ -15,7 +15,7 @@ After I completed the challenge, I gained confidence and solid skills related to
 
 </div>
 
-
+---
 
 <div align="center">
 
