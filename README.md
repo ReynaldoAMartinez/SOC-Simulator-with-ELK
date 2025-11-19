@@ -1,5 +1,5 @@
 # SOC-Simulator with ELK
-# 30-Day-XXXX Project
+# A 30-Day Project
 
 | Day | Day | Day | Day | Day | Day |
 |-----|-----|-----|-----|-----|-----|
