@@ -1,4 +1,5 @@
 # Day 5: Installed and set up Windows Server 2022 with RDP exposed to the internet.
+# I named the server MYDFIR-WIN-reymar
 
 <img width="800" height="256" alt="CloudCompute" src="https://github.com/user-attachments/assets/d1d3bdb7-85a4-4f53-8b14-0aaa7e53b141" />
 
