@@ -1,7 +1,8 @@
-# Day 1: Create a Logical Diagram.
+# Day 1: Created a Logical Diagram.
+<div align="center">
 The following diagram shows all the components and connections built for this project to achieve the objectives of the project .
 
-<div align="center">
+
 <img width="602" height="649" alt="Diagram" src="https://github.com/user-attachments/assets/f96fb6bb-c975-43be-9142-0019da8c53dd" />
 </div>
   
