@@ -24,7 +24,7 @@ After I completed the challenge, I gained confidence and solid skills related to
 </div>
 
 ---
-## 🚀 Achievements in this project
+## 🚀 Achievements through the 30-Day Project
 
 
 ---
