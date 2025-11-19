@@ -23,6 +23,33 @@ After I completed the challenge, I gained confidence and solid skills related to
 <img width="613" height="441" alt="TImeline" src="https://github.com/user-attachments/assets/95e81d10-132f-4c85-8b68-b15ebaba3c20" />
 </div>
 
+## 🚀 30-Day SOC Analyst Challenge Highlights
+
+> **Note:** Only include points you can verify and discuss during interviews.
+
+---
+
+### 🛡️ Security Operations & Threat Detection
+- ✅ Completed a **30-day structured SOC analyst challenge**, simulating real-world security operations tasks including **threat detection**, investigation, and **incident reporting**.
+- 🔍 Simulated **brute-force attacks** and **malware activity** against cloud-hosted infrastructure to understand attacker behavior and detection methods.
+
+---
+
+### 🖥️ ELK Stack & Log Management
+- 📊 Deployed and configured the full **ELK Stack (Elasticsearch, Logstash, Kibana)** in a cloud environment for centralized log collection and **real-time analysis**.
+- 📝 Ingested logs from endpoint sources using **Winlogbeat** and **Sysmon**, gaining hands-on experience parsing Windows event logs for **security-relevant activity**.
+
+---
+
+### ⚡ Detection, Dashboards & Automation
+- 📈 Created **detection rules** and **visual dashboards** in Kibana, enabling proactive threat monitoring and trend analysis.
+- 🎫 Built and integrated an **osTicket ticketing system** to track incident investigations and reinforce real-world SOC workflow practices.
+
+---
+
+### 🕵️ Threat Hunting & Incident Response
+- 🐍 Performed hands-on investigations of **command-and-control (C2) activity** using the **Mythic C2 framework**, enhancing threat hunting capabilities.
+- 🔄 Demonstrated end-to-end **incident handling skills**—from log ingestion to detection, investigation, and case management—using open-source and enterprise-style tooling.
 
 # A 30-Day Project
 
