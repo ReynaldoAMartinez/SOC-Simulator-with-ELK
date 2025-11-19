@@ -1,4 +1,4 @@
-# Day 2: Learn what the ELK stack is, its benefits, and the tools associated
+# Day 2: Learned what the ELK stack is, its benefits, and the tools associated
 
 
 <img width="800" height="533" alt="ELK" src="https://github.com/user-attachments/assets/6d2c1d7f-ad8e-4507-bf43-51fb6060ca5f" />
