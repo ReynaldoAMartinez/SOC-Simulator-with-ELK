@@ -4,7 +4,7 @@ This is an intensive program to help aspiring SOC analysts gain real-world pract
 
 After I completed the challenge, I gained confidence and solid skills related to an SOC environment. I also acquired a methodology for detecting and investigating alerts using a SIEM and a ticketing system.
 <div align="center">
-
+---
 ### 📦 **Tools**  
 🛠️ Elastic • 🧪 Logstash • 📊 Kibana • 🕵️ Mythic (C2 Server) • 🖥️ Sysmon • 🎫 osTicket (ticketing system)
 
