@@ -3,6 +3,17 @@
 This is an intensive program to help aspiring SOC analysts gain real-world practical experience in just 30 days. It was designed by [Steven Maeh](https://www.mydfir.com/), a very well-known DFIR consultant with long experience working and focusing within the security operations domain.
 
 After I completed the challenge, I gained confidence and solid skills related to an SOC environment. I also acquired a methodology for detecting and investigating alerts using a SIEM and a ticketing system.
+<div align="center">
+
+### 📦 **Tools**  
+🛠️ Elastic • 🧪 Logstash • 📊 Kibana • 🕵️ Mythic (C2 Server) • 🖥️ Sysmon • 🎫 osTicket (ticketing system)
+
+---
+
+### 💻 **Platforms**  
+🪟 Windows Server 2022 • 🐧 Ubuntu Server 24.02 • 🧩 Elastic Agent & Fleet Server • ☁️ Vultr (cloud provider)
+
+</div>
 
 - Tools: Elastic, Logstash, Kibana, Mythic (C2 Server), Sysmon, and an osTicket (ticketing system)
 - Platforms: Windows Server 2022, Ubuntu Server 24.02, Elastic Agent and Fleet Server, and Vultr (a cloud provider)
