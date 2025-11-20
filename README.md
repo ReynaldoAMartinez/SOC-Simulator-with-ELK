@@ -1,4 +1,7 @@
 # SOC-Simulator with ELK - A 30-Day Project
+<img width="1024" height="1024" alt="UnderConstruction" src="https://github.com/user-attachments/assets/32b103f9-fac8-4c8d-b501-6f94b34125a3" />
+
+<!--
 
 This is an intensive program to help aspiring SOC analysts gain real-world practical experience in just 30 days. It was designed by [Steven Maeh](https://www.mydfir.com/), a very well-known DFIR consultant with long experience working and focusing within the security operations domain.
 
@@ -124,7 +127,7 @@ Observe the wiped disk:  <br/>
 + text in green
 ! text in orange
 
-
+-->
 # text in gray
 @@ text in purple (and bold)@@
 ```
