@@ -63,7 +63,7 @@ After I completed the challenge, I gained confidence and solid skills related to
 - 🐍 Performed hands-on investigations of **command-and-control (C2) activity** using the **Mythic C2 framework**, enhancing threat hunting capabilities.
 - 🔄 Demonstrated end-to-end **incident handling skills**—from log ingestion to detection, investigation, and case management—using open-source and enterprise-style tooling.
 
-<!-- 
+
 30-Day SOC Analyst Challenge | Gain Practical Experience 
 
 
@@ -121,9 +121,9 @@ Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
  
--->
+
 
 # text in gray
 @@ text in purple (and bold)@@
 ```
---!>
+-->
